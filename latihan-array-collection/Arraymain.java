@@ -11,5 +11,8 @@ public class Arraymain {
         daftarNama[2] = "Grace";
         daftarNama[3] = "Hannah";
         System.out.println(daftarNama[2]);
+
+        double[] nilai = {78.5, 77.0, 89.3, 24.84};
+        System.out.println(nilai[2]);
     }
 }
