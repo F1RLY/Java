@@ -1,3 +1,4 @@
+package belajar;
 interface Operasi {
     int hitung(int a, int b);
 }

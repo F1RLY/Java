@@ -1,3 +1,4 @@
+package belajar;
 public class Contoh {
         public static void main(String[] args) {
         double nilai = 76.99;
