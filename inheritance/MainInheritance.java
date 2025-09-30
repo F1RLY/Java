@@ -1,6 +1,5 @@
-
 package inheritance;
-import inheritance.*; // Import semua kelas dalam package inheritance
+import inheritance.*; // Import all classes from the inheritance package
 
 public class MainInheritance {
     public static void main(String[] args) {

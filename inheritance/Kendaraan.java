@@ -1,5 +1,5 @@
-package inheritance;
 
+package inheritance;
 // Single Inheritance
 public class Kendaraan {
     String merk;
